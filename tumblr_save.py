@@ -51,8 +51,6 @@ def save_from_tumblr():
 			print "Fim do blog. Total de páginas: {}".format(page_count)
 			break
 
-	alarm()	
-
 # -------------------------------------------------------------------------------------------------
 if __name__ == "__main__":
     save_from_tumblr()
